@@ -1,0 +1,152 @@
+@media(max-width:1200px){
+    .header-menu ul li a {
+       
+        font-size: 20px;
+        padding: 5px 13px;
+      
+    }
+    .my-picture span{
+	width: 30%;
+	text-align: center;
+    margin: auto;
+}
+    .header-menu {
+        width: 100%;
+    }
+    .header-menu ul {
+        text-align: center;
+     }
+     .header-logo {
+        width: 100%;
+        text-align: center;
+      
+    }
+    .header-button {
+        width: 100%;
+       text-align: center;
+    }
+
+    .my-picture-caption {
+        width: 100%;
+       
+      
+        text-align: center;
+    }
+
+    .my-picture {
+        width: 50%;
+       
+        text-align: center;
+    }
+
+}
+
+@media(max-width:500px){
+
+}
+@media(max-width:990px){
+    .header-menu ul li a {
+        font-size: 18px;
+        padding: 4px 12px;
+    }
+    .header-logo {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 18px;
+    }
+
+    .header-menu ul {
+       text-align: center;
+    }
+
+    .header-button {
+       visibility: hidden;
+       opacity: 0;
+    }
+    .header-menu {
+        width: 100%;
+    }
+}
+
+
+
+@media(max-width:1200px){
+    .my-picture-caption {
+        max-width: 100%;
+    }
+    .header-menu {
+        width: 100%;
+    }
+
+}
+@media(max-width:990px){
+    .devided-card {
+        width: 100%;
+       
+    }
+}
+
+@media(max-width:830px){
+    .header-logo {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 18px;
+    }
+    .header-logo {
+        width: 100%;
+        text-align: center;
+    }
+    .header-menu ul {
+        text-align: center;
+     }
+     .header-menu {
+        width: 100%;
+    }
+
+
+    .devided-card {
+        width: 100%;
+      
+    }
+}
+@media(max-width:775px){
+    .header-menu ul li a {
+        font-size: 18px;
+        padding: 4px 5px;
+    }
+    .header-logo {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 18px;
+    }
+    .header-menu {
+        width: 100%;
+    }
+
+    .devided-card {
+        width: 100%;
+      
+    }
+}
+
+@media(max-width:520px){
+    .my-picture {
+        width: 50%;
+        text-align: center;
+        height: 0;
+        width: 0;
+        visibility: hidden;
+        opacity: 0;
+    }
+    
+    .caption {
+       
+        padding-left: 11px;
+    }
+
+    .caption-picture img {
+        width: 300px;
+        margin-top: -29px;
+    }
+}
+
